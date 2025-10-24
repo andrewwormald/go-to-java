@@ -1,4 +1,4 @@
-// Stage 1.2: Inheritance and Method Overriding
+// Go to Java - Stage 1.2: Inheritance and Method Overriding
 // Coming from Go: Java has inheritance (extends), Go uses composition
 
 // Base class (parent/superclass)

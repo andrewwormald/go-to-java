@@ -1,4 +1,4 @@
-# Stage 2: Interfaces & Polymorphism
+# Go to Java - Stage 2: Interfaces & Polymorphism
 
 ## Concepts Covered
 - Interface definition and implementation

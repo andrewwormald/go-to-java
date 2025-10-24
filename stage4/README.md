@@ -1,4 +1,4 @@
-# Stage 4: Advanced OOP & Design Patterns
+# Go to Java - Stage 4: Advanced OOP & Design Patterns
 
 ## Concepts Covered
 - Encapsulation best practices and immutable objects

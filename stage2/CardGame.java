@@ -1,4 +1,4 @@
-// Stage 2.3: Card Game - Putting It All Together
+// Go to Java - Stage 2.3: Card Game - Putting It All Together
 // Fun project demonstrating interfaces, abstract classes, and polymorphism
 
 // Interface for things that can be played

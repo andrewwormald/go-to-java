@@ -1,4 +1,4 @@
-// Stage 1.1: Basic Class and Object Creation
+// Go to Java - Stage 1.1: Basic Class and Object Creation
 // Coming from Go: This is like defining a struct, but with methods attached
 
 public class BasicClass {

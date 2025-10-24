@@ -1,4 +1,4 @@
-# Stage 5: Advanced Features & Flyweight Pattern
+# Go to Java - Stage 5: Advanced Features & Flyweight Pattern
 
 ## Concepts Covered
 - Exception handling (try/catch/finally, checked vs unchecked)

@@ -1,4 +1,4 @@
-// Stage 3.3: Inventory Management System
+// Go to Java - Stage 3.3: Inventory Management System
 // Fun project combining collections, generics, and iterators
 
 import java.util.*;

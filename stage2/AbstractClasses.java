@@ -1,4 +1,4 @@
-// Stage 2.2: Abstract Classes and Mixed Implementation
+// Go to Java - Stage 2.2: Abstract Classes and Mixed Implementation
 // Coming from Go: No direct equivalent - combines interface concepts with partial implementation
 
 // Abstract class - cannot be instantiated directly

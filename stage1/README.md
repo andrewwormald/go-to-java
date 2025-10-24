@@ -1,4 +1,4 @@
-# Stage 1: Java Basics & OOP Foundations
+# Go to Java - Stage 1: Java Basics & OOP Foundations
 
 ## Concepts Covered
 - Classes and Objects (vs Go structs)

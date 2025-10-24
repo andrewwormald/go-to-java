@@ -1,4 +1,4 @@
-// Stage 5.2: Lambda Expressions, Streams, and Optional
+// Go to Java - Stage 5.2: Lambda Expressions, Streams, and Optional
 // Coming from Go: Similar to anonymous functions and pipelines
 
 import java.util.*;

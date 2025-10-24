@@ -1,4 +1,4 @@
-// Stage 2.1: Interfaces and Implementation
+// Go to Java - Stage 2.1: Interfaces and Implementation
 // Coming from Go: Java interfaces are similar but more explicit
 
 // Interface definition (like Go interface but must be explicitly implemented)

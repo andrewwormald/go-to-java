@@ -1,4 +1,4 @@
-// Stage 4.1: Encapsulation Best Practices and Composition
+// Go to Java - Stage 4.1: Encapsulation Best Practices and Composition
 // Coming from Go: Java encapsulation is more explicit, composition similar
 
 import java.util.*;

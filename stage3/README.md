@@ -1,4 +1,4 @@
-# Stage 3: Collections & Generics
+# Go to Java - Stage 3: Collections & Generics
 
 ## Concepts Covered
 - Collections Framework (ArrayList, LinkedList, HashMap, HashSet, TreeMap)

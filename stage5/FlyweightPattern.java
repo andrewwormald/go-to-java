@@ -1,4 +1,4 @@
-// Stage 5.3: Flyweight Pattern for Memory Optimization
+// Go to Java - Stage 5.3: Flyweight Pattern for Memory Optimization
 // Coming from Go: Similar to string interning, but more explicit object sharing
 
 import java.util.*;

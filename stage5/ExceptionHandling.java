@@ -1,4 +1,4 @@
-// Stage 5.1: Exception Handling
+// Go to Java - Stage 5.1: Exception Handling
 // Coming from Go: Java uses exceptions instead of explicit error returns
 
 import java.io.*;

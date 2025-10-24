@@ -1,4 +1,4 @@
-// Stage 4.3: Event-Driven Game System
+// Go to Java - Stage 4.3: Event-Driven Game System
 // Comprehensive example combining all Stage 4 concepts
 
 import java.util.*;

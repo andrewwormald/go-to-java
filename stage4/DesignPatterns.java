@@ -1,4 +1,4 @@
-// Stage 4.2: Common Design Patterns
+// Go to Java - Stage 4.2: Common Design Patterns
 // Coming from Go: Similar patterns but Java's OOP makes them more explicit
 
 import java.util.*;

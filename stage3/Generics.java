@@ -1,4 +1,4 @@
-// Stage 3.2: Generics and Type Safety
+// Go to Java - Stage 3.2: Generics and Type Safety
 // Coming from Go: Similar to Go generics but more verbose syntax
 
 import java.util.*;

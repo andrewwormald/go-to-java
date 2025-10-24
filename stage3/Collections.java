@@ -1,4 +1,4 @@
-// Stage 3.1: Collections Framework
+// Go to Java - Stage 3.1: Collections Framework
 // Coming from Go: Similar to slices/maps but with rich type hierarchy
 
 import java.util.*;

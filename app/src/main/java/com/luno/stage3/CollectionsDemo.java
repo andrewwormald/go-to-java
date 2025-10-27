@@ -3,7 +3,7 @@ package com.luno.stage3;// Go to Java - Stage 3.1: Collections Framework
 
 import java.util.*;
 
-public class Collections {
+public class CollectionsDemo {
     public static void main(String[] args) {
         System.out.println("=== Java Collections Framework ===");
 

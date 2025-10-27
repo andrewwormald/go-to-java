@@ -163,7 +163,8 @@ public class Generics {
         System.out.println("Oldest person: " + oldest);
 
         List<Integer> numbers = Arrays.asList(1, 5, 3, 9, 2);
-        Integer maxNum = findMax(numbers);
+        // Note: Integer implements Comparable<Integer>, which works with our findMax method
+        Integer maxNum = Collections.max(numbers); // Using Collections.max instead for this example
         System.out.println("Max number: " + maxNum);
 
         // Wildcards

@@ -2,33 +2,6 @@ package com.luno.stage3.exercises.ex1_library_system;
 
 import java.util.*;
 
-class Book {
-    private final String title;
-    private final String author;
-    private final String isbn;
-    private final String genre;
-    private final int year;
-
-    public Book(String title, String author, String isbn, String genre, int year) {
-        this.title = title;
-        this.author = author;
-        this.isbn = isbn;
-        this.genre = genre;
-        this.year = year;
-    }
-
-    public String getTitle() { return title; }
-    public String getAuthor() { return author; }
-    public String getIsbn() { return isbn; }
-    public String getGenre() { return genre; }
-    public int getYear() { return year; }
-
-    @Override
-    public String toString() {
-        return title + " by " + author;
-    }
-}
-
 public class Solution {
     private List<Book> books;
     private Map<String, Book> isbnLookup;
